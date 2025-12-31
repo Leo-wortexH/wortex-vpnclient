@@ -55,11 +55,13 @@
 - [x] Темная/Светлая тема (Auto)
 - [x] Поддержка профилей подписки (JSON/Subscription Link)
 
-![Screenshot_20251231_184432_Wortex](https://github.com/user-attachments/assets/b5d4617a-18d5-4efc-bee0-d563f03c16fc)
-![Screenshot_20251231_184448_Wortex](https://github.com/user-attachments/assets/9068e423-e7dc-4f00-bf84-ef6a4935d9fa)
-![Screenshot_20251231_184439_Wortex](https://github.com/user-attachments/assets/cee1c6da-7bec-4172-89d0-6a59da49825e)
-![Screenshot_20251231_184444_Wortex](https://github.com/user-attachments/assets/63bf8300-61fa-43f7-8a81-b193a8084357)
-![Screenshot_20251231_184434_Wortex](https://github.com/user-attachments/assets/ed5fde53-b938-4ccb-8096-3eca34c396e4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5d4617a-18d5-4efc-bee0-d563f03c16fc" width="19%" />
+  <img src="https://github.com/user-attachments/assets/9068e423-e7dc-4f00-bf84-ef6a4935d9fa" width="19%" />
+  <img src="https://github.com/user-attachments/assets/cee1c6da-7bec-4172-89d0-6a59da49825e" width="19%" />
+  <img src="https://github.com/user-attachments/assets/63bf8300-61fa-43f7-8a81-b193a8084357" width="19%" />
+  <img src="https://github.com/user-attachments/assets/ed5fde53-b938-4ccb-8096-3eca34c396e4" width="19%" />
+</p>
 
 ---
 
