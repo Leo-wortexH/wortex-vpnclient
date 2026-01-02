@@ -48,12 +48,15 @@
 ---
 
 ## 🗺 Roadmap
-
-- [x] Интеграция ядра Xcore  
-- [x] Интерфейс с картой (Map UI)  
-- [x] Встроенный Speedtest  
-- [x] Тёмная/Светлая тема (Auto)  
-- [x] Поддержка профилей подписки (JSON / Subscription Link)
+- Speed -
+- [] Zero-Copy TUN Routing
+- [] Multi-Path TCP/UDP
+- [] CDN-Edge Selection
+- [] Network Health
+- security - 
+- [] "Chaos Mode" (Динамическая мимикрия)
+- [] Протокольный "Double-Hop" внутри одного приложени
+- [] "Web-Parrot" (Маскировка под локальную активность)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d4617a-18d5-4efc-bee0-d563f03c16fc" width="19%" />
