@@ -76,4 +76,4 @@ Wortex и ядро Xcore разработаны для защиты приват
 
 ---
 
-Developed by Leo
+Developed by Leo https://t.me/Niktoworking
