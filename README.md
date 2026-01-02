@@ -63,7 +63,7 @@
 - [20%] CDN-Edge Selection
 - [0%] Network Health
 - security - 
-- [0%] "Chaos Mode" (Динамическая мимикрия)
+- ✅ динамическая фрагментация
 - [0%] Протокольный "Double-Hop" внутри одного приложени
 - [0%] "Web-Parrot" (Маскировка под локальную активность)
 - [0%] Dynamic Fragmentation (Стратегия обхода DPI)
