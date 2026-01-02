@@ -58,12 +58,12 @@
 
 ## 🗺 Roadmap v1.0.1
 - Speed -
-- ✅ Zero-Copy TUN Routing
+- [x] Zero-Copy TUN Routing
 - [70%] Multi-Path TCP/UDP
 - [20%] CDN-Edge Selection
 - [0%] Network Health
 - security - 
-- ✅ динамическая фрагментация
+- [x] динамическая фрагментация
 - [0%] Протокольный "Double-Hop"
 - [0%] "Web-Parrot" (Маскировка под локальную активность)
 
