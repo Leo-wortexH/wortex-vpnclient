@@ -58,9 +58,9 @@
 
 ## 🗺 Roadmap
 - Speed -
-- [60%] Zero-Copy TUN Routing
-- [40%] Multi-Path TCP/UDP
-- [0%] CDN-Edge Selection
+- ✅ Zero-Copy TUN Routing
+- [70%] Multi-Path TCP/UDP
+- [20%] CDN-Edge Selection
 - [0%] Network Health
 - security - 
 - [0%] "Chaos Mode" (Динамическая мимикрия)
