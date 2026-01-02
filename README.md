@@ -49,15 +49,15 @@
 
 ## 🗺 Roadmap
 - Speed -
-- [-] Zero-Copy TUN Routing
-- [-] Multi-Path TCP/UDP
-- [-] CDN-Edge Selection
-- [-] Network Health
+- [60%] Zero-Copy TUN Routing
+- [40%] Multi-Path TCP/UDP
+- [0%] CDN-Edge Selection
+- [0%] Network Health
 - security - 
-- [-] "Chaos Mode" (Динамическая мимикрия)
-- [-] Протокольный "Double-Hop" внутри одного приложени
-- [-] "Web-Parrot" (Маскировка под локальную активность)
-- [-] Dynamic Fragmentation (Стратегия обхода DPI)
+- [0%] "Chaos Mode" (Динамическая мимикрия)
+- [0%] Протокольный "Double-Hop" внутри одного приложени
+- [0%] "Web-Parrot" (Маскировка под локальную активность)
+- [0%] Dynamic Fragmentation (Стратегия обхода DPI)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d4617a-18d5-4efc-bee0-d563f03c16fc" width="19%" />
