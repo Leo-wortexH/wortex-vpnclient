@@ -7,10 +7,8 @@
   <img src="https://img.shields.io/badge/Powered%20by-Android-3DDC84?logo=android&logoColor=white" height="100" alt="Powered by Android">
 </a>
 
-
-<p align="center">
 <img src="https://github.com/user-attachments/assets/ab084d9b-c082-406f-8244-d873bbe799eb" width="19%" />
-</p>
+
 
 ****
 <p align="center">
