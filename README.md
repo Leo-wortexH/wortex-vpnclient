@@ -1,5 +1,6 @@
 # Wortex VPN x horizon 🌐
-(https://github.com/user-attachments/assets/5b407905-c7b5-458c-9722-3e669d451299)
+
+![Создание_фоновой_анимации_для_Discord (online-video-cutter com)](https://github.com/user-attachments/assets/ca3aa645-b4b4-44fe-a94e-edc23a4e36e3)
 
 
 **Wortex** — Android‑клиент VPN нового поколения разработанный для horizon vpn на базе высокопроизводительного ядра **Xcore**.  
