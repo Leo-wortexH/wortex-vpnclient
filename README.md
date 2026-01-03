@@ -6,7 +6,6 @@
 
 
 <p align="center">
-[![Powered by Android](https://img.shields.io/badge/Powered%20by-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 <img src="https://github.com/user-attachments/assets/ab084d9b-c082-406f-8244-d873bbe799eb" width="19%" />
 </p>
 
