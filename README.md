@@ -2,6 +2,9 @@
 
 **Wortex** — Android‑клиент VPN нового поколения разработанный для horizon vpn на базе высокопроизводительного ядра **Xcore**.  
 Мы объединили анонимность VLESS Reality с удобным интерфейсом: выбирайте серверы на **интерактивной карте**, измеряйте скорость внутри приложения и гибко настраивайте правила трафика.
+
+[![Powered by Android](https://img.shields.io/badge/Powered%20by-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ab084d9b-c082-406f-8244-d873bbe799eb" width="19%" />
 </p>
