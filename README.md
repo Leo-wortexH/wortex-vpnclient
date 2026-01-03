@@ -68,8 +68,8 @@
 ## 🗺 Roadmap v1.0.1
 - Speed -
 - [x] Zero-Copy TUN Routing
-- [70%] Multi-Path TCP/UDP
-- [20%] CDN-Edge Selection
+- [x] Multi-Path TCP/UDP
+- [x] CDN-Edge Selection
 - [0%] Network Health
 - security - 
 - [x] динамическая фрагментация
