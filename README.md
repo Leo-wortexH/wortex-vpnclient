@@ -26,7 +26,7 @@
 <a href="https://t.me/Niktoworking">
   <img src="https://img.shields.io/badge/💬_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45">
 </a>
-<a href="https://discord.com/channels/1456787550705418264/1457157274769297478">
+<a href="https://discord.gg/PaSDgkSBsr">
   <img src="https://img.shields.io/badge/🎮_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="45">
 </a>
 
