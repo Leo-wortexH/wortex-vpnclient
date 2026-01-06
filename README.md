@@ -1,4 +1,4 @@
-ё<div align="center">
+<div align="center">
 
 # 🌐 Wortex × Horizon VPN
 
