@@ -85,7 +85,7 @@
 
 #### ✅ Уже готово (v1.0.1+)
 - [x] **Zero-Copy TUN Routing** (Сверхбыстрый стек)
-- [x] **Multi-Path Handover** (Авто-смена сети)
+- [x] **Multi-Path Handover** (Авто-смена сети + использование wifi + 4g)
 - [x] **CDN-Edge Selection** (Выбор лучшего узла)
 - [x] **Dynamic Fragmentation** (Обход DPI)
 
