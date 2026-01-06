@@ -1,4 +1,4 @@
-<div align="center">
+ё<div align="center">
 
 # 🌐 Wortex × Horizon VPN
 
@@ -89,7 +89,7 @@
 - [x] **Zero-Copy TUN Routing** (Сверхбыстрый стек)
 - [x] **Multi-Path Handover** (Авто-смена сети + использование wifi + 4g)
 - [x] **CDN-Edge Selection** (Выбор лучшего сервера)
-- [x] **Dynamic Fragmentation** (Обход DPI)
+- [x] **Dynamic Fragmentation** (изменение параметров фрагментации и fingeprint)
 
 #### 🚧 В разработке
 - [ ] **Network Health Monitor** (Фоновый анализ качества)
