@@ -24,7 +24,10 @@
   <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_APK-000000?style=for-the-badge&logo=google-play&logoColor=white" height="45">
 </a>
 <a href="https://t.me/Niktoworking">
-  <img src="https://img.shields.io/badge/💬_TELEGRAM_SUPPORT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45">
+  <img src="https://img.shields.io/badge/💬_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45">
+</a>
+<a href="https://discord.com/channels/1456787550705418264/1457157274769297478">
+  <img src="https://img.shields.io/badge/🎮_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="45">
 </a>
 
 </div>
@@ -111,5 +114,5 @@
   <sub>Wortex и ядро Xcore разработаны для защиты приватности. Используйте в соответствии с законами вашей страны.</sub>
   <br><br>
   <strong>Developed by Leo</strong><br>
-  <a href="https://t.me/Niktoworking">Telegram</a>
+  <a href="https://t.me/Niktoworking">Telegram</a> • <a href="https://discord.com/channels/1456787550705418264/1457157274769297478">Discord Community</a>
 </div>
