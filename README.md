@@ -120,6 +120,6 @@
 <div align="center">
   <sub>Wortex и ядро Xcore разработаны для защиты приватности. Используйте в соответствии с законами вашей страны.</sub>
   <br><br>
-  <strong>Developed by Leo</strong><br>
+  <strong>Developed by Никто</strong><br>
   <a href="https://t.me/Niktoworking">Telegram</a> • <a href="https://discord.com/channels/1456787550705418264/1457157274769297478">Discord Community</a>
 </div>
