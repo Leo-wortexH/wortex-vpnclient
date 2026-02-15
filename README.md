@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Wortex × Horizon VPN
+# 🌐 Wireon
 
 <a href="https://github.com/leo20112022/wortex-vpnclient/releases">
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -14,7 +14,7 @@
 
 <br><br>
 
-**Флагманский клиент нового поколения на базе ядра Xcore.**<br>
+**Флагманский клиент нового поколения на базе ядра Xray и singbox.**<br>
 Мы объединили анонимность VLESS Reality с премиальным интерфейсом.<br>
 *Zero-Copy маршрутизация • Chaos Mode • Интерактивная карта*
 
@@ -50,7 +50,7 @@
 
 ## Почему Wortex?
 
-### Ядро Xcore (Performance)
+### Ядро Xcore и singbox (Performance)
 Собственная модификация ядра для максимальной производительности:
 > **Zero-Copy TUN:** Клиент в реальном времени подбирает идеальный размер пакета под конкретную сеть (LTE/Wi-Fi).
 >
@@ -85,7 +85,7 @@
 
 ## 🗺 Roadmap (Планы)
 
-#### ✅ Уже готово (v1.2.0+)
+#### ✅ Уже готово (v0.9+)
 - [x] **Zero-Copy TUN Routing** (подбирает идеальный размер пакета под конкретную сеть (LTE/Wi-Fi))
 - [x] **Multi-Path Handover** (Авто-смена сети + использование wifi + 4g)
 - [x] **CDN-Edge Selection** (автоматически настраивает SNI и Destination IP)
@@ -93,13 +93,10 @@
 - [x] **Protocol Double-Hop** (Цепочка из двух каналов для защиты)
 - [x] **Network Health Monitor** (Фоновый анализ качества)
 - [x] **Web-Parrot** (Генерация фонового шума в два этапа)
-#### 🚧 В разработке
-- [ ] **Исправление ошибок и банов**
-
 
 ---
 
-## 🗺 Roadmap2 (1.2.0+)
+## 🗺 Roadmap2 (1.0+)
 
 - [ ] **выход на google play market**
 ---
