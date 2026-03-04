@@ -23,7 +23,7 @@
 <a href="https://wireon.app/#download">
   <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_APK-000000?style=for-the-badge&logo=google-play&logoColor=white" height="45">
 </a>
-<a href="https://t.me/Niktoworking">
+<a href="https://t.me/MrhNIKTO">
   <img src="https://img.shields.io/badge/💬_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45">
 </a>
 <a href="https://discord.gg/PaSDgkSBsr">
