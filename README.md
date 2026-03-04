@@ -5,10 +5,10 @@
 <a href="https://wireon.app/#download">
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </a>
-<a href="https://github.com/leo20112022/wortex-vpnclient">
+<a href="https://wireon.app/#download">
   <img src="https://img.shields.io/badge/CORE-XCORE-0052cc?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Core">
 </a>
-<a href="https://github.com/leo20112022/wortex-vpnclient/releases/latest">
+<a href="https://wireon.app/#download">
   <img src="https://img.shields.io/github/v/release/leo20112022/wortex-vpnclient?style=for-the-badge&color=orange&label=STABLE" alt="Latest Release">
 </a>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-<a href="https://github.com/leo20112022/wortex-vpnclient/releases/latest">
+<a href="https://wireon.app/#download">
   <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_APK-000000?style=for-the-badge&logo=google-play&logoColor=white" height="45">
 </a>
 <a href="https://t.me/Niktoworking">
