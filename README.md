@@ -2,7 +2,7 @@
 
 # 🌐 Wireon
 
-<a href="https://github.com/leo20112022/wortex-vpnclient/releases">
+<a href="https://wireon.app/#download">
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </a>
 <a href="https://github.com/leo20112022/wortex-vpnclient">
