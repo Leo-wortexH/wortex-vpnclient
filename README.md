@@ -95,7 +95,7 @@
 Приложение совместимо с устройствами на базе **Android 8.0+**.
 
 <div align="center">
-  <a href="[https://github.com/leo20112022/wortex-vpnclient/releases/latest](https://wireon.app/#download)">
+  <a href="[https://wireon.app/#download">
     <img src="https://img.shields.io/badge/👉_СКАЧАТЬ_APK_СЕЙЧАС-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </div>
