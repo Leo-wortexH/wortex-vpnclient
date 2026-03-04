@@ -85,20 +85,8 @@
 
 ## 🗺 Roadmap (Планы)
 
-#### ✅ Уже готово (v0.9+)
-- [x] **Zero-Copy TUN Routing** (подбирает идеальный размер пакета под конкретную сеть (LTE/Wi-Fi))
-- [x] **Multi-Path Handover** (Авто-смена сети + использование wifi + 4g)
-- [x] **CDN-Edge Selection** (автоматически настраивает SNI и Destination IP)
-- [x] **Dynamic Fragmentation** (изменение параметров фрагментации и fingeprint)
-- [x] **Protocol Double-Hop** (Цепочка из двух каналов для защиты)
-- [x] **Network Health Monitor** (Фоновый анализ качества)
-- [x] **Web-Parrot** (Генерация фонового шума в два этапа)
-
----
-
-## 🗺 Roadmap2 (1.0+)
-
 - [ ] **выход на google play market**
+
 ---
 
 ## 📥 Установка
